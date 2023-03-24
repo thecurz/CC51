@@ -7,7 +7,6 @@ int a, b, c, d;
 
 int main(){
     //Ejercicio 1
-    //Forma ChatGPT
     a = 5, b = 10, c = 15, d = 20;
 
     int arr[] = { a, b, c, d };
@@ -19,7 +18,7 @@ int main(){
         cout << arr[i] << " ";
     }
     cout<<"\n";
-    
+
     //Forma del profesor
     int num[4];
     int temp;
